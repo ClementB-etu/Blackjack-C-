@@ -3,7 +3,7 @@ RM=rm -f
 SRC=$(wildcard *.c)
 HEAD=$(wildcard *.h)
 OBJ=$(SRC:.c=.o)
-EXE=TP9
+EXE=Bj
 
 
 $(EXE) : $(OBJ)
